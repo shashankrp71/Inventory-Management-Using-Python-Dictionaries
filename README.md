@@ -8,8 +8,8 @@
 - This code's capabilities are to **add**, **delete**, and **show** data.
 
 
-[Linkedin](https://www.linkedin.com/shashankrp71)
-For further more you can ping me in linkedin
+## [Linkedin](https://www.linkedin.com/in/shashankrp/)
+For further more you can ping me on linkedin
 
 Thankyou :grimacing:
 
